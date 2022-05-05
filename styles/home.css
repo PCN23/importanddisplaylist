@@ -1,1 +1,15 @@
 /* add home page styles here */
+
+.candy {
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    border: 10px solid red;
+    align-items: center;
+    background-color: bisque;
+
+}
+
+.candy img {
+    width: 300px;
+}
