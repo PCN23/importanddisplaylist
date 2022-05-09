@@ -1,5 +1,7 @@
 /* add home page styles here */
 
+
+
 .candy {
     width: 330px;
     display: flex;
@@ -11,5 +13,35 @@
 }
 
 .candy img {
+    width: 300px;
+}
+
+/* add home page styles here */
+
+.plant {
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    border: 10px solid red;
+    align-items: center;
+    background-color: bisque;
+
+}
+
+.plant img {
+    width: 300px;
+}
+
+.stadium {
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    border: 10px solid red;
+    align-items: center;
+    background-color: bisque;
+
+}
+
+.stadium img {
     width: 300px;
 }
